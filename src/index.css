@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "CustomFont";
+  src: url("./assets/font/BASKVILL.TTF") format("truetype");
+}
+
+body {
+    font-family: 'CustomFont', sans-serif;
+  }
