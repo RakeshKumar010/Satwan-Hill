@@ -6,7 +6,7 @@ import Townshipimg from "../../assets/img/townshipimg.png";
 const Township = () => {
   return (
     <div className="bg-bgColor p-20 pb-64">
-      <div className="flex gap-10 justify-center ">
+      <div className="flex 2xl:px-24 justify-between ">
         <div className="relative border-l border-[#c12317] w-[210px]  pl-5">
           <img
             alt="circle"
