@@ -1,7 +1,4 @@
-import React from "react";
-import Navbar from "./components/global/Navbar";
-import Header from "./components/Header";
-import Layout from "./Layout";
+ import Layout from "./Layout";
 
 const App = () => {
   return (

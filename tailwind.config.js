@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        logoColor: "#41622c",
+        logoColor: "#e1a61c",
         bgColor: "#fbf1e7",
       },
     },
